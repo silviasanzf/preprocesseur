@@ -1,0 +1,220 @@
+.ring1 {
+    width: 50px;
+    height: 50px;
+    border-width: 2px;
+    border-color: orangered;
+    border-radius: 50%;
+    background: none;
+    margin: auto;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #ffb599;
+}
+
+.ring2 {
+    width: 100px;
+    height: 100px;
+    border-width: 10px;
+    border-color: #ffd718;
+    border-radius: 50%;
+    background: none;
+    margin: auto;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #fff1b1;
+}
+
+.ring-1 {
+    width: 91.6666666667px;
+    height: 91.6666666667px;
+    border-width: 2px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 270.0666666667px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+
+.ring-2 {
+    width: 108.3333333333px;
+    height: 108.3333333333px;
+    border-width: 4px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 336.7333333333px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+
+.ring-3 {
+    width: 125px;
+    height: 125px;
+    border-width: 6px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 403.4px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+
+.ring-4 {
+    width: 141.6666666667px;
+    height: 141.6666666667px;
+    border-width: 8px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 470.0666666667px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+
+.ring-5 {
+    width: 158.3333333333px;
+    height: 158.3333333333px;
+    border-width: 10px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 536.7333333333px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+
+.ring-6 {
+    width: 175px;
+    height: 175px;
+    border-width: 12px;
+    border-color: gray;
+    border-radius: 50%;
+    background: none;
+    border-style: solid;
+    box-shadow: 5px 5px 3px #cdcdcd;
+    margin-left: 603.4px;
+    position: relative;
+    z-index: 1;
+    position: absolute;
+}
+h1{
+    margin-top: 40px;
+    font-size:25px;
+    font-family:'anironregular';
+    text-align: center;
+}
+
+
+
+
+@font-face {font-family:"Tengwar Annatar Italic";
+    src:url("police/tngani.eot?") format("eot"),
+    url("police/tngani.woff") format("woff"),
+    url("police/tngani.ttf") format("truetype"),
+    url("police/tngani.svg#TengwarAnnatar-Italic") format("svg");
+    font-weight:normal;font-style:normal;
+}
+@font-face {
+    font-family: 'partybusiness';
+    src:URL('police/partybusiness.ttf');
+}
+
+@font-face {
+    font-family: 'anironcbold';
+    src: url('police/anicb___-webfont.woff2') format('woff2'),
+    url('police/anicb___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anironregular';
+    src: url('police/anirm___-webfont.woff2') format('woff2'),
+    url('police/anirm___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'anironcregular';
+    src: url('anicm___-webfont.woff2') format('woff2'),
+    url('anicm___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anironbold';
+    src: url('anirb___-webfont.woff2') format('woff2'),
+    url('anirb___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.container{
+    background-image: url("media/bg_light.png");
+    width: 100%;
+}
+
+
+
+
+.bg-navbar{
+    background-color:rgb(189, 56, 8);
+}
+.nav-item, .navbar-brand {
+    font-family: 'anironregular';
+}
+
+
+.nav-link{
+    border-right: 1px solid white;
+
+}
+.nav-item:hover {
+    text-decoration:underline white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
